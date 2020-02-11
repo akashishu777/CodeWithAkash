@@ -12,6 +12,6 @@ module.exports = {
     twitter: 'https://twitter.com/akashishu1995',
     linkedin: 'https://www.linkedin.com/in/akash-vishwakarma-325b03138/',
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  pathPrefix: '/CodeWithAkash',
+  siteUrl: 'https://akashishu777.github.io/CodeWithAkash/',
 };
