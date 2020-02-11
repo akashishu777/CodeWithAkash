@@ -26,37 +26,37 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-69c9e75de2add7b5e063.js"
+    "url": "webpack-runtime-691ccf37675cbe2d3972.js"
   },
   {
-    "url": "app-c3c0a461c2d21a2aa6e7.js"
+    "url": "app-1844a60075d1c444172b.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-70fa0028ee7496e8897a.js"
   },
   {
     "url": "index.html",
-    "revision": "5016fb7ce7019ada6e04118c4d6c7dcc"
+    "revision": "7bbfc1df9e80a50b7e45f7c5e3922512"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "9d76801001de8a651ddd9d5c30a7dfe8"
+    "revision": "7b207613bcdd8f2f5498bda753845821"
   },
   {
     "url": "1.714e789c58edc4d97d4f.css"
   },
   {
-    "url": "1-e6bd9e04ccc49212379e.js"
+    "url": "1-2b2cb07ba7847eda6b03.js"
   },
   {
-    "url": "component---src-templates-index-js-a01bfab1d89b65733daa.js"
+    "url": "component---src-templates-index-js-c8a0258edcbfb8e31caf.js"
   },
   {
     "url": "0-07d69e31ed2ab1c03541.js"
   },
   {
-    "url": "static/d/879/path---index-6a9-Y6nYoUFKRSKpyFyuySt24hjsonU.json",
-    "revision": "5dffa189a7bf329e2496567ed794bbb3"
+    "url": "static/d/965/path---index-6a9-ixTfmg6mQrxJ7FtYtTx07ekpPc.json",
+    "revision": "b2e51c39139b60671bb5e9d58fe22fe0"
   },
   {
     "url": "component---src-pages-404-js-73aa4ee436ca34094f3e.js"
@@ -71,13 +71,13 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "24dcf14e0ea8dfbbfa121417dec0cbe9"
+    "revision": "a8904221651b2de1ea908e52b99a91bc"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/devblog/offline-plugin-app-shell-fallback/index.html", {
+workbox.routing.registerNavigationRoute("/CodeWithAkash/offline-plugin-app-shell-fallback/index.html", {
   whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });
