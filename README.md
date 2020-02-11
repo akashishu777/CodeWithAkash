@@ -2,7 +2,7 @@
 
 DevBlog is a fully customizable blog template designed for developers (or anyone else) wanting to get into blogging. It comes ready to go and deploy (with ease) or can be edited and extended however you like. The blog is completely statically generated via GatsbyJS, comes with syntax highlighting (via PrismJS) out of the box, and has server-side rendering built-in, among other things.
 
-To view a live demo, [click here](https://ryanfitzgerald.github.io/devblog/).
+To view a live demo, [click here](https://akashishu777.github.io/CodeWithAkash/).
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/RyanFitzgerald/devblog)
 
@@ -34,7 +34,7 @@ The first step is to get the GatsbyJS CLI installed locally. This can be accompl
 
 #### 2. Create a new Gatsby Site using this repo
 
-When creating a new Gatsby site, the CLI allows you to specify a starter, in this case simply provide the URL for this repo. This can be accomplished by running the command ```gatsby new YOUR_BLOG_NAME https://github.com/RyanFitzgerald/devblog```
+When creating a new Gatsby site, the CLI allows you to specify a starter, in this case simply provide the URL for this repo. This can be accomplished by running the command ```gatsby new YOUR_BLOG_NAME https://github.com/Akashishu777/CodeWithAkash```
 
 #### 3. Edit or use the template as needed
 
@@ -58,10 +58,10 @@ export default {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald'
+    website: '',
+    github: 'https://github.com/Akashishu777',
+    twitter: 'https://twitter.com/akashishu1995',
+    linkedin: ''
   }
 };
 ```
